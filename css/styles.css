@@ -1,0 +1,15 @@
+.table {
+    width: 100%;
+    /* margin-bottom: 1rem; */
+    background-color: transparent;
+    margin: 10px auto;
+}
+#employee_data_wrapper{
+    display: block;
+}
+#employee_data_info{
+    text-align: center;
+}
+#employee_data th.sorting{
+    width:15%!important;
+}
